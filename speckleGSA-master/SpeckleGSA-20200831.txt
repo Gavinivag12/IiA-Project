@@ -1,0 +1,4 @@
+2020-08-31 08:58:46.631 +08:00 [Information] Preparing to send ...
+2020-08-31 09:06:14.312 +08:00 [Information] Read 33165 GWA lines across 32 keywords into cache
+2020-08-31 09:06:14.902 +08:00 [Error] Unable to get stream response
+2020-08-31 09:06:14.912 +08:00 [Error] Object reference not set to an instance of an object.

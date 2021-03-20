@@ -1,0 +1,10 @@
+2020-08-28 17:02:21.146 +08:00 [Information] Login successful
+2020-08-28 17:02:36.736 +08:00 [Information] Opened new file.
+2020-08-28 17:04:13.875 +08:00 [Information] Preparing to send ...
+2020-08-28 17:11:09.586 +08:00 [Information] Read 33165 GWA lines across 32 keywords into cache
+2020-08-28 17:11:09.588 +08:00 [Information] Creating new sender for Full Model
+2020-08-28 17:11:10.414 +08:00 [Information] Duration of initialisation: 00:06:56
+2020-08-28 17:11:22.047 +08:00 [Information] Duration of conversion to Speckle: 00:00:11
+2020-08-28 17:11:22.083 +08:00 [Information] Successfully converted: 10809 objects.
+2020-08-28 17:11:55.073 +08:00 [Information] Successfully sent 10809 objects on stream GLVfyt961
+2020-08-28 17:11:55.599 +08:00 [Information] Duration of sending to Speckle: 00:00:33
